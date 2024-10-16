@@ -1,0 +1,15 @@
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.AssemblyInfoInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.AssemblyInfo.cs
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.csproj.CoreCompileInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.sourcelink.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\bin\Debug\net8.0\04-ContaGenérica.exe
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\bin\Debug\net8.0\04-ContaGenérica.deps.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\bin\Debug\net8.0\04-ContaGenérica.runtimeconfig.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\bin\Debug\net8.0\04-ContaGenérica.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\bin\Debug\net8.0\04-ContaGenérica.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\refint\04-ContaGenérica.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\04-ContaGenérica.genruntimeconfig.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-ContaGenérica\04-ContaGenérica\obj\Debug\net8.0\ref\04-ContaGenérica.dll

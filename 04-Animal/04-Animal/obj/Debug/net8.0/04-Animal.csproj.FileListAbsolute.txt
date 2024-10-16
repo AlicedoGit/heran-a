@@ -1,0 +1,15 @@
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\bin\Debug\net8.0\04-Animal.exe
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\bin\Debug\net8.0\04-Animal.deps.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\bin\Debug\net8.0\04-Animal.runtimeconfig.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\bin\Debug\net8.0\04-Animal.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\bin\Debug\net8.0\04-Animal.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.AssemblyInfoInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.AssemblyInfo.cs
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.csproj.CoreCompileInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.sourcelink.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\refint\04-Animal.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\04-Animal.genruntimeconfig.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\04-Animal\04-Animal\obj\Debug\net8.0\ref\04-Animal.dll

@@ -1,0 +1,14 @@
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\bin\Debug\net8.0\03-Livro.exe
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\bin\Debug\net8.0\03-Livro.deps.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\bin\Debug\net8.0\03-Livro.runtimeconfig.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\bin\Debug\net8.0\03-Livro.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\bin\Debug\net8.0\03-Livro.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.AssemblyInfoInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.AssemblyInfo.cs
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.csproj.CoreCompileInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\refint\03-Livro.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\03-Livro.genruntimeconfig.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BeckEnd\Poo\03-Livro\03-Livro\obj\Debug\net8.0\ref\03-Livro.dll
